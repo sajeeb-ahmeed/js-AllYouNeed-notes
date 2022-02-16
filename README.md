@@ -2252,3 +2252,5 @@ children.forEach((child) => parent.appendChild(child));
 38. Create a function that takes two numbers as arguments and return their sum.
 39. Create a function that will merge two arrays and return the result as a new array
 40. Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
+
+## top
